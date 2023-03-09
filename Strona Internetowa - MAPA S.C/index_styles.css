@@ -1,0 +1,496 @@
+body {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	width: 100%;
+	overflow-x:hidden;
+}
+
+.container {
+	top: var(--menu-height);
+	position: relative;
+	display: grid;
+	grid-template-columns: 1fr;
+	grid-template-rows: calc(100vh - var(--menu-height)) auto auto auto auto 1fr;
+	grid-template-areas:
+	"bigPhoto"
+	"about"
+	"services"
+	"realisations"
+	"contactForm"
+	"footer";
+}
+/* wielkość zdjęcia można wstawić wymiary: wysokość rzędu = szerokość strony * wysokość zdjęcia/ szerokość zdjęcia */
+.bigPhoto {
+	grid-area: bigPhoto;
+	background-image: url("image2.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.contactUs {
+	font-size:37px;
+	font-weight:550;
+	font-family:Helvetica;
+	color:#f5c27a;
+	width:45%;
+	position:relative;
+	left:50%;
+	top:10%;
+	background-color:black;
+	opacity:0.8;
+	border-radius:10px;
+}
+.button {
+	text-decoration: none;
+	font-size: 18px;
+	font-family: Helvetica;
+	text-transform: uppercase;
+	color: white;
+	background-color: black;
+	margin: 0;
+	width:auto;
+	padding: 20px 21px 19px 21px;
+	overflow: hidden;
+	margin-top:30px;
+	border-radius:1000px;
+}
+.about {
+	grid-area: about;
+	font-size: 17px;
+	position:relative;
+	color: grey;
+	font-family: Helvetica;
+	text-align: justify;
+	text-indent: 0;
+	vertical-align: baseline;
+	line-height: 1.8;
+	overflow: hidden;
+	padding-bottom: 45px;
+}
+.rotated {
+    -webkit-transform: rotate(180deg);  /* Chrome, Safari 3.1+ */
+    -moz-transform: rotate(180deg);  /* Firefox 3.5-15 */
+    -ms-transform: rotate(180deg);  /* IE 9 */
+    -o-transform: rotate(180deg);  /* Opera 10.50-12.00 */
+    transform: rotate(180deg);  /* Firefox 16+, IE 10+, Opera 12.10+ */
+}
+.fadeOut{
+	display:none;
+}
+.rollOut{
+	display:none;
+}
+.hr {
+	height: 1px;
+	width: 76%;
+	margin-left: 12%;
+	border-top: 1px solid #c9c9c9;
+}
+#hr2 {
+	border-top: 1px solid #c9c9c9;
+	margin-bottom: 30px;
+}
+h1 {
+	font-family: Helvetica;
+	color: black;
+	letter-spacing: 0.05em;
+	text-align: center;
+	margin-block-end: 0.3em;
+	margin-block-start: 0.3em;
+}
+.services h1 {
+	margin-block-end: 0.15em !important;
+}
+.about p{
+	margin-right: calc(10px + 8vw);
+	margin-left: calc(10px + 8vw);
+}
+.services {
+	padding-top: 10px;
+	grid-area: services;
+	background-color: #f0f0f0;
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr;
+	grid-template-rows: auto auto auto;
+	grid-template-areas:
+	"st st st st"
+	"hr hr hr hr"
+	"service1 service2 service3 service4"
+}
+#hr2 {
+	grid-area: hr;
+}
+.services h1{
+	grid-area: st;
+	margin-bottom: 20px;
+	font-size: 34px;
+	vertical-align: baseline;
+	line-height: 1.8;
+}
+#service1 {
+	grid-area: service1;
+}
+#service2 {
+	grid-area: service2;
+}
+#service3 {
+	grid-area: service3;
+}
+#service4 {
+	grid-area: service4;
+}
+.services img{
+	margin-bottom: 20px;
+	width: 60%;
+	margin-left: 20%;
+}
+.services ul {
+	list-style: ;
+}
+.servicesTitle {
+	font-size: 30px;
+	min-height: 2.5em;
+	font-family: Helvetica;
+	text-align: center;
+	font-weight: 600;
+}
+.servicesDescription {
+	margin-top: 35px;
+	font-size: 18px;
+	font-family: Helvetica;
+	text-align: left;
+	margin-right: 0;
+	padding-bottom: 45px;
+}
+.realisations {
+	grid-area: realisations;
+	padding-bottom: 20px;
+}
+#realisationsTitle {
+	width: 100%;
+	font-size: 34px;
+	padding-top: 20px;
+	text-align: center;
+	font-weight: bold;
+	line-height: 1.8;
+	letter-spacing: 0.05em;
+	font-family: Helvetica;
+}
+.realisations p{
+	margin-right: calc(10px + 8vw);
+	margin-left: calc(10px + 8vw);
+	font-size: 17px;
+	color: grey;
+	font-family: Helvetica;
+	text-align: justify;
+	line-height: 1.7;
+	padding-bottom: 15px;
+}
+.realisations img{
+	margin-bottom: 20px;
+	width: 90%;
+	margin-left: 5%;
+}
+#realisationsThree {
+	overflow: auto;
+}
+#realisation1 {
+	margin-left: 11%;
+	width: 26%;
+	display: inline-block;
+	float:left;
+}
+#realisation2 {
+	width: 26%;
+	display: inline-block;
+	float:left;
+}
+#realisation3 {
+	width: 26%;
+	display: inline-block;
+	float:left;
+}
+.realisationHeader {
+	font-size: 30px;
+	font-family: Helvetica;
+	text-align: center;
+	font-weight: 600;
+}
+#more {
+	text-decoration: none;
+	font-size: 13px;
+	font-family: Helvetica;
+	text-transform: uppercase;
+	color: white;
+}
+#more {
+	background-color: black;
+	margin: 0;
+	padding: 14px 11px 15px 11px;
+	overflow: hidden;
+	float: right;
+	margin: 30px 10vw;
+}
+.arrows {
+	color: red;
+	font-size: 18px;
+	font-weight: bold;
+}
+.footer {
+	grid-area: footer;
+	position: relative;
+	background-color: #f0f0f0;
+}
+#logoFooter {
+	position: absolute;
+	left: 30%;
+	top: 7%;
+	width: 40%;
+}
+#logoPictureFooter {
+	width:100%;
+	height: auto;
+}
+#contactFooter {
+	position: absolute;
+	left: 16%;
+	top: 55%;
+}
+#address {
+	position: absolute;
+	right: 16%;
+	top: 55%;
+}
+.footerText {
+	font-family: Helvetica;
+	font-size: 25px;
+	font-weight: 650;
+	line-height: 1.7;
+	color: white;
+}
+@media (max-width: 838px){
+	.footerText {
+		font-size: 18px;
+		font-weight: 600;
+		line-height: 1.6;
+	}
+	#contactFooter {
+		left: 8%;
+	}
+	#address {
+		right: 8%;
+	}
+}
+
+.contactForm {
+	grid-area:contactForm;
+	padding-top:15px;
+	background-color: #f0f0f0;
+	padding-left:20%;
+	padding-right:20%;
+	width:60%;
+	padding-bottom: 20px;
+}
+.form {
+	display:grid;
+	font-family:Helvetica;
+	grid-template-columns: 1fr 1fr;
+	grid-template-areas:
+	"labelName labelEmail"
+	"name email"
+	"labelSubject labelSubject"
+	"subject subject"
+	"submit submit"
+	"successInfo successInfo";
+}
+.label {
+	color:grey;
+	font-size:20px;
+	margin-bottom:7px;
+	margin-top:15px;
+}
+#labelName {
+	grid-area:labelName;
+}
+#labelEmail {
+	grid-area:labelEmail;
+	margin-left:8%;
+}
+#name {
+	grid-area:name;
+	width:92%;
+	border:1.2px solid #E6ECF8;
+	font-size:27px;
+	font-weight:300;
+	padding:10px;
+	border-radius:7px;
+}
+#email {
+	grid-area:email;
+	width:92%;
+	margin-left:8%;
+	border:1.2px solid #E6ECF8;
+	font-size:27px;
+	font-weight:300;
+	padding:10px;
+	border-radius:7px;
+}
+#labelSubject {
+	grid-area:labelSubject;
+}
+#subject {
+	grid-area:subject;
+	border:1.2px solid #E6ECF8;
+	max-width:100%;
+	min-width:100%;
+	font-size:27px;
+	font-weight:300;
+	padding:7px;
+	min-height:6em;
+	border-radius:7px;
+}
+#submit {
+	margin-top:20px;
+	grid-area:submit;
+	border-radius:1000px;
+	width:24%;
+	margin-left:38%;
+	padding:15px 0 15px 0;
+	text-align: center;
+	border:2px solid black;
+	font-size:22px;
+	margin-bottom: 20px;
+	cursor: pointer;
+}
+.contactForm .hr {
+	width:127%;
+	margin-left:-13.5%;
+}
+#successInfo {
+	grid-area:successInfo;
+	color:green;
+	font-size:26px;
+	font-weight:bold;
+	text-align: center;
+	letter-spacing: 1.2px;
+}
+@media (max-width: 838px){
+	.services{
+		grid-template-columns: 1fr 1fr;
+		grid-template-rows: auto auto auto auto;
+		grid-template-areas:
+		"st st"
+		"hr hr"
+		"service1 service2"
+		"service3 service4";
+		padding-left:10%;
+		padding-right:10%;
+	}
+	#hr2 {
+		width:95%;
+		margin-left:2.5%;
+	}
+	.contactForm {
+		padding-left:10%;
+		padding-right:10%;
+		width:80%;
+	}
+	.contactForm .hr {
+		width:113.5%;
+		margin-left:-7.75%;
+	}
+	#realisation1 {
+		margin-left: 2%;
+		width: 32%;
+		display: inline-block;
+		float:left;
+	}
+	#realisation2 {
+		width: 32%;
+		display: inline-block;
+		float:left;
+	}
+	#realisation3 {
+		width: 32%;
+		display: inline-block;
+		float:left;
+	}
+	.realisations img{
+		margin-bottom: 10px;
+	}
+}
+
+@media (max-width: 948px){
+.fadeOut {
+	z-index:1;
+	background-image: linear-gradient(to bottom, rgba(255,255,255,0.2), rgba(255,255,255,0.9));
+	position: absolute;
+	width:100%;
+	left:0;
+	bottom:0;
+	height:200px;
+	display:block;
+}
+.rollOut {
+	position: absolute;
+	background: none;
+	border: none;
+	width: calc(30px + 2vw);
+	height: calc(30px + 2vw);
+	left: calc(49vw - 15px);
+	bottom: 10px;
+	z-index: 2;
+	cursor: pointer;
+	display:block;
+}
+.rollOut img {
+	width:100%;
+}
+.about {
+	max-height:500px;
+}
+}
+
+
+@media (max-width: 648px){
+	.realisationHeader {
+		font-size: 26px;
+	}
+        .footerText {
+		font-size: 16px;
+		line-height: 1.4;
+	}
+}
+
+@media (max-width: 568px){
+	.realisationHeader {
+		font-size: 18px;
+	}
+}
+
+@media (max-width: 388px){
+	.realisationHeader {
+		font-size: 16px;
+	}
+}
+
+.napisStart {
+	position:absolute;
+	color:white;
+	font-size:5em;
+	font-weight:bold;
+}
+
+#napisStart1 {
+	left:55%;
+	top:1em;
+}
+#napisStart2 {
+	left:60%;
+	top:3em;
+}
+#napisStart3 {
+	left:65%;
+	top:5em;
+}
