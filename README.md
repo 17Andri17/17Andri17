@@ -1,14 +1,14 @@
 # 👋 17Andri17 👋
 
-I am a data science student who is looking for new exciting challanges that can allow me to get experience connected to my field of interests. With my goal-oriented and positive personality, 
-I am a great team member. Outside of my studies, I used to play semi-pro football, where 
-I developed discipline and persistence which 
-I continue to apply to all aspects of my life.
+🎓 I’m currently studying Data Science at Faculty of Mathematics and Information Science, Warsaw University of Technology
+🔍 I'm interested in web scraping, data analysis and machine learning
+🎲 I’m currently working on Betting Odds Comparator
+🌱 I'm currently learning about neural networks
 <br />
 
----
+#
 
-### 🧰 Languages and Tools
+### My Languages and Tools
 
 <img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Pandas" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
@@ -24,6 +24,11 @@ I continue to apply to all aspects of my life.
 <img align="left" alt="Markdown" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
 <img align="left" alt="Latex" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
 <img align="left" alt="Linux" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+
+#
+
+### My projects
+
 
 
 <!--
