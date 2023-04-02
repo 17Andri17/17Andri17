@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![My Skills](https://skills.thijs.gg/icons?i=py,r,js,html,css,java,figma&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=py,r,js,html,css,java&theme=light)](https://skills.thijs.gg)
 
 <!--
 **17Andri17/17Andri17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
