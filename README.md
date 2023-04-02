@@ -1,4 +1,10 @@
-# 17Andri17 👋
+# 👋 17Andri17 👋
+
+I am a data science student who is looking for new exciting challanges that can allow me to get experience connected to my field of interests. With my goal-oriented and positive personality, 
+I am a great team member. Outside of my studies, I used to play semi-pro football, where 
+I developed discipline and persistence which 
+I continue to apply to all aspects of my life.
+<br />
 
 ---
 
