@@ -1,10 +1,15 @@
 # 👋 17Andri17 👋
 
-🎓 I’m currently studying Data Science at Faculty of Mathematics and Information Science, Warsaw University of Technology
-🔍 I'm interested in web scraping, data analysis and machine learning
-🎲 I’m currently working on Betting Odds Comparator
-🌱 I'm currently learning about neural networks
-<br />
+🎓 I’m currently studying Data Science at Faculty of Mathematics and Information Science, Warsaw University of Technology </br>
+🔍 I'm interested in web scraping, data analysis and machine learning </br>
+🎲 I’m currently working on Betting Odds Comparator </br>
+🌱 I'm currently learning about neural networks </br></br>
+Reach me: <br>
+📧 mateuszandryszak15@gmail.com &nbsp; [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/https://www.linkedin.com/in/mateusz-andryszak-508403269/)
+
+#
+
+### My projects
 
 #
 
@@ -24,10 +29,8 @@
 <img align="left" alt="Markdown" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
 <img align="left" alt="Latex" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
 <img align="left" alt="Linux" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+</br>
 
-#
-
-### My projects
 
 
 
