@@ -11,7 +11,7 @@ Reach me: <br>
 
 ### My projects
 
-[Web page for geodesic company](https://mapasc.pl)
+[Mapa S.C.](https://mapasc.pl) - website for geodesic company
 
 #
 
