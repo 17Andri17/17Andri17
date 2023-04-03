@@ -14,6 +14,9 @@ Reach me: <br>
 [Fake Articles Detection](https://github.com/17Andri17/Fake-Article-Detection) - machine learning project
 </br>
 [Mapa S.C.](https://mapasc.pl) - website for geodesic company
+</br>
+[YouTube Scanner](https://github.com/bednarzm/zpoif_2022_projekt_genejam_andryszakm) - Java application displaying basic information about searched videos
+
 
 #
 
