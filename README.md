@@ -11,7 +11,7 @@ Reach me: <br>
 
 ### My projects
 
-[Fake Articles Detection](https://) - machine learning project
+[Fake Articles Detection](https://github.com/17Andri17/Fake-Article-Detection) - machine learning project
 </br>
 [Mapa S.C.](https://mapasc.pl) - website for geodesic company
 
