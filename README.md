@@ -1,9 +1,9 @@
 # 👋 17Andri17 👋
 
-🎓 I’m currently studying Data Science at Faculty of Mathematics and Information Science, Warsaw University of Technology </br>
-🔍 I'm interested in web scraping, data analysis and machine learning </br>
-🎲 I’m currently working on Betting Odds Comparator </br>
-🌱 I'm currently learning PyTorch framework</br></br>
+🎓 I’m currently studying Data Science at the Faculty of Mathematics and Information Science, Warsaw University of Technology. </br>
+🔍 I’m interested in web scraping, data analysis and machine learning. </br>
+🎲 I’m developing a system for generating bookmaker odds. </br>
+🖥️ I’m working as a ServiceNow Consultant at GuideVision. </br></br>
 Reach me: <br>
 📧 mateuszandryszak15@gmail.com &nbsp; [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mateusz-andryszak-508403269/)
 
