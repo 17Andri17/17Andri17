@@ -22,7 +22,7 @@ Reach me: <br>
 
 ### My Languages and Tools
 
-<img align="left" alt="ServiceNow" width="4.6%" style="padding-right:1%" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/ServiceNow_logo.svg" />
+<img align="left" alt="ServiceNow" width="4.6%" style="padding-right:1%" src="https://icon-icons.com/icons2/2699/PNG/512/servicenow_logo_icon_168835.png" />
 <img align="left" alt="Python" width="4.6%" style="padding-right:1%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Pandas" width="4.6%" style="padding-right:1%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
 <img align="left" alt="R" width="4.6%" style="padding-right:1%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
