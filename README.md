@@ -22,6 +22,7 @@ Reach me: <br>
 
 ### My Languages and Tools
 
+<img align="left" alt="ServiceNow" width="4.6%" style="padding-right:1%" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/ServiceNow_logo.svg" />
 <img align="left" alt="Python" width="4.6%" style="padding-right:1%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Pandas" width="4.6%" style="padding-right:1%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
 <img align="left" alt="R" width="4.6%" style="padding-right:1%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
@@ -35,7 +36,6 @@ Reach me: <br>
 <img align="left" alt="MatLab" width="4.6%" style="padding-right:1%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
 <img align="left" alt="Markdown" width="4.6%" style="padding-right:1%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
 <img align="left" alt="Latex" width="4.6%" style="padding-right:1%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
-<img align="left" alt="Linux" width="4.6%" style="padding-right:1%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </br>
 
 
